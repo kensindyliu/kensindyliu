@@ -1,16 +1,25 @@
-### Hi there 👋
+![](./assets/techBanner.jpeg)
 
-<!--
-**kensindyliu/kensindyliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+Hello, world. I'm Zhixin Liu, a full stack developer based
+in Winnipeg, Canada.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I was once a passionate developer focused on creating beautiful and functional
+websites, desktop applications and mobile applications. I also enjoy helping 
+others to transform ideas into incredible interactive applications. Now I study
+at MITT, Winnipeg. 
+
+My programming experience includes JavaScript, C#, Java, and Vb. Would you like to know more? Get in touch. I look
+forward to hearing from you.
+
+##
+
+### My skills
+<p align="center">
+https://img.shields.io/badge/Code%20-%20Javascript%20-%202aa889
+https://img.shields.io/badge/Code%20-%20C%23%20-%202aa889
+https://img.shields.io/badge/Code%20-%20Java%20-%202aa889
+https://img.shields.io/badge/Code%20-%20Vb%20-%202aa889
+</p>
+
