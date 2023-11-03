@@ -23,4 +23,5 @@ forward to hearing from you.
 <img src="https://img.shields.io/badge/Code%20-%20Vb%20-%202aa889"/>
 </p>
 
+##
 [![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kensindyliu&theme=gotham&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
